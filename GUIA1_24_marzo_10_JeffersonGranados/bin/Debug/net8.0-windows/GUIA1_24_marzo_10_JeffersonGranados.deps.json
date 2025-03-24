@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GUIA1_24_marzo_10_JeffersonGranados/1.0.0": {
+        "runtime": {
+          "GUIA1_24_marzo_10_JeffersonGranados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GUIA1_24_marzo_10_JeffersonGranados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
