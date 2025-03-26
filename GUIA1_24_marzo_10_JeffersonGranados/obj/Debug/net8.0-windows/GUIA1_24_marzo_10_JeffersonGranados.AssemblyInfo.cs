@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GUIA1_24_marzo_10_JeffersonGranados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84ddf242ff8e940d206f2adbe7f3f15bc9fcd992")]
 [assembly: System.Reflection.AssemblyProductAttribute("GUIA1_24_marzo_10_JeffersonGranados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GUIA1_24_marzo_10_JeffersonGranados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

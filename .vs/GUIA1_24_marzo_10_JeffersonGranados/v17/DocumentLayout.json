@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64A3A625-3949-4F68-B55D-47CC684B8042}|GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados.csproj|c:\\users\\carlo\\source\\repos\\20jgl02jeffersongranados\\guia1_24_marzo_10_jeffersongranados\\guia1_24_marzo_10_jeffersongranados\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A3A625-3949-4F68-B55D-47CC684B8042}|GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados.csproj|solutionrelative:guia1_24_marzo_10_jeffersongranados\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A3A625-3949-4F68-B55D-47CC684B8042}|GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados.csproj|C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\guia1_24_marzo_10_jeffersongranados\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64A3A625-3949-4F68-B55D-47CC684B8042}|GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados.csproj|solutionrelative:guia1_24_marzo_10_jeffersongranados\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A3A625-3949-4F68-B55D-47CC684B8042}|GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados.csproj|C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\guia1_24_marzo_10_jeffersongranados\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A3A625-3949-4F68-B55D-47CC684B8042}|GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados.csproj|solutionrelative:guia1_24_marzo_10_jeffersongranados\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A3A625-3949-4F68-B55D-47CC684B8042}|GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados.csproj|C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\guia1_24_marzo_10_jeffersongranados\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64A3A625-3949-4F68-B55D-47CC684B8042}|GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados.csproj|solutionrelative:guia1_24_marzo_10_jeffersongranados\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A3A625-3949-4F68-B55D-47CC684B8042}|GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados.csproj|C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\guia1_24_marzo_10_jeffersongranados\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A3A625-3949-4F68-B55D-47CC684B8042}|GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados.csproj|solutionrelative:guia1_24_marzo_10_jeffersongranados\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A3A625-3949-4F68-B55D-47CC684B8042}|GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados.csproj|C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\guia1_24_marzo_10_jeffersongranados\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64A3A625-3949-4F68-B55D-47CC684B8042}|GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados.csproj|solutionrelative:guia1_24_marzo_10_jeffersongranados\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A3A625-3949-4F68-B55D-47CC684B8042}|GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados.csproj|C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\guia1_24_marzo_10_jeffersongranados\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64A3A625-3949-4F68-B55D-47CC684B8042}|GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados.csproj|solutionrelative:guia1_24_marzo_10_jeffersongranados\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A3A625-3949-4F68-B55D-47CC684B8042}|GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados.csproj|C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\guia1_24_marzo_10_jeffersongranados\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A3A625-3949-4F68-B55D-47CC684B8042}|GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados.csproj|solutionrelative:guia1_24_marzo_10_jeffersongranados\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A3A625-3949-4F68-B55D-47CC684B8042}|GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados.csproj|C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\guia1_24_marzo_10_jeffersongranados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64A3A625-3949-4F68-B55D-47CC684B8042}|GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados.csproj|solutionrelative:guia1_24_marzo_10_jeffersongranados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A3A625-3949-4F68-B55D-47CC684B8042}|GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados.csproj|C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\guia1_24_marzo_10_jeffersongranados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A3A625-3949-4F68-B55D-47CC684B8042}|GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados.csproj|solutionrelative:guia1_24_marzo_10_jeffersongranados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A3A625-3949-4F68-B55D-47CC684B8042}|GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados.csproj|C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\guia1_24_marzo_10_jeffersongranados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A3A625-3949-4F68-B55D-47CC684B8042}|GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados.csproj|solutionrelative:guia1_24_marzo_10_jeffersongranados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "form5.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\form5.cs",
+              "RelativeDocumentMoniker": "GUIA1_24_marzo_10_JeffersonGranados\\form5.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\form5.cs",
+              "RelativeToolTip": "GUIA1_24_marzo_10_JeffersonGranados\\form5.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAewDUAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:40:43.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "form5.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\form5.cs",
+              "RelativeDocumentMoniker": "GUIA1_24_marzo_10_JeffersonGranados\\form5.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\form5.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUIA1_24_marzo_10_JeffersonGranados\\form5.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:37:39.811Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "form3.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\form3.cs",
+              "RelativeDocumentMoniker": "GUIA1_24_marzo_10_JeffersonGranados\\form3.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\form3.cs",
+              "RelativeToolTip": "GUIA1_24_marzo_10_JeffersonGranados\\form3.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAApwCQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:15:02.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "form4.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\form4.cs",
+              "RelativeDocumentMoniker": "GUIA1_24_marzo_10_JeffersonGranados\\form4.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\form4.cs",
+              "RelativeToolTip": "GUIA1_24_marzo_10_JeffersonGranados\\form4.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAxwDcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:24:14.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\form4.cs",
+              "RelativeDocumentMoniker": "GUIA1_24_marzo_10_JeffersonGranados\\form4.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUIA1_24_marzo_10_JeffersonGranados\\form4.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:18:28.687Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "form2.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\form2.cs",
+              "RelativeDocumentMoniker": "GUIA1_24_marzo_10_JeffersonGranados\\form2.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\form2.cs",
+              "RelativeToolTip": "GUIA1_24_marzo_10_JeffersonGranados\\form2.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAvwBYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:15:41.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\Form1.cs",
+              "RelativeDocumentMoniker": "GUIA1_24_marzo_10_JeffersonGranados\\Form1.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\Form1.cs",
+              "RelativeToolTip": "GUIA1_24_marzo_10_JeffersonGranados\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:15:32.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\form2.cs",
+              "RelativeDocumentMoniker": "GUIA1_24_marzo_10_JeffersonGranados\\form2.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUIA1_24_marzo_10_JeffersonGranados\\form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:14:16.246Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\Form1.cs",
+              "RelativeDocumentMoniker": "GUIA1_24_marzo_10_JeffersonGranados\\Form1.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUIA1_24_marzo_10_JeffersonGranados\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:13:50.524Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\form3.cs",
+              "RelativeDocumentMoniker": "GUIA1_24_marzo_10_JeffersonGranados\\form3.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUIA1_24_marzo_10_JeffersonGranados\\form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:11:53.14Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\Program.cs",
+              "RelativeDocumentMoniker": "GUIA1_24_marzo_10_JeffersonGranados\\Program.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\20JGL02JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\GUIA1_24_marzo_10_JeffersonGranados\\Program.cs",
+              "RelativeToolTip": "GUIA1_24_marzo_10_JeffersonGranados\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:11:48.69Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

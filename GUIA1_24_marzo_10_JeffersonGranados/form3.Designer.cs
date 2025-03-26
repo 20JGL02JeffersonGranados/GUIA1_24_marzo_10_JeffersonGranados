@@ -47,6 +47,7 @@
             button2.TabIndex = 9;
             button2.Text = "Ejercicio3";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // dataGridView1
             // 

@@ -28,7 +28,13 @@ namespace GUIA1_24_marzo_10_JeffersonGranados
                 dataGridView1.Rows.Add(num1, cont2, multi);
                 cont2++;
 
-            }while( cont2 < 11 );
+            } while (cont2 < 11);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            form4 form = new form4();
+            form.ShowDialog();
         }
     }
 }
